@@ -1,0 +1,5 @@
+{
+  "port_team": {
+    "templates": ["port_team/team.tf"]
+  }
+}
